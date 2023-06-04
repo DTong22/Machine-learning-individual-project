@@ -93,7 +93,7 @@ for i in structures:
 
 t_halves_np = np.array(t_halves)
 print(len(t_halves_np))
-np.savetxt('fulldata_new11.csv', t_halves_np, fmt= '%s', delimiter= ',')
+np.savetxt('fulldata_new1.csv', t_halves_np, fmt= '%s', delimiter= ',')
 
 plt.plot(x, y)
 plt.xlabel('log time')

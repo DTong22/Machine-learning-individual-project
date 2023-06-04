@@ -1,0 +1,10 @@
+Access to the source data:
+
+ohovorka@UoS-206298:~/MyWork/nanoparticles/mrx/spin_me/data/clusterdata_1000rea_20200109
+
+Note: This source data was generated on 20200109. The csv files can be computed as needed based on the source data.
+
+This data corresponds to magnetic relaxation of particle clusters:
+
+- with (spherically) random anisotropy axes of particles
+- the initialising external field oriented in (spherically) random directions
