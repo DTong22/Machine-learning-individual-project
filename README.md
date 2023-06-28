@@ -10,7 +10,7 @@ Magnetic nanoparticles have emerged as a promising tool for various biomedical a
 2. [feature extraction.py](https://github.com/DTong22/Machine-learning-individual-project/blob/master/model/feature%20extraction.py) extracts features from the `raw data` into csv files.
 3. [model tuned.py](https://github.com/DTong22/Machine-learning-individual-project/blob/master/model/model%20tuned.py
 ) is the machine learning model that uses csv files obtained from `feature extraction.py`.
-More detail of the project can be found in the [Final report](https://github.com/DTong22/Machine-learning-individual-project/blob/master/Final%20Report.pdf)
+4. More detail of the project can be found in the [Final report](https://github.com/DTong22/Machine-learning-individual-project/blob/master/Final%20Report.pdf)
 
 ### Methods Used
 * Machine Learning
